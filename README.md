@@ -78,7 +78,7 @@ portfolio/
 6. **Deployment**:
    - Uploaded the project to GitHub.
    - Set up GitHub Pages for easy access and hosting.
-     **Found IT Here**: [My Portfolio](https://richdigital2021.github.io/portfolio/)
+   - **Found IT Here**: [My Portfolio](https://richdigital2021.github.io/portfolio/)
 
 ## Contributing
 
