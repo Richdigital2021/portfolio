@@ -207,6 +207,25 @@ nav {
     list-style: none;
 }
 
+/* Education */
+
+.edu_container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .edu_item {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  @media (max-width: 768px) {
+    .edu_container {
+      grid-template-columns: 1fr;
+    }
+  }
+    
+
 /* Interests Section Styles */
 #interests {
     text-align: center;
@@ -310,6 +329,21 @@ button:hover {
     color: #D6008F;
     border: 2px solid #D6008F;
 }
+
+.contact-methods{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+@media (max-width: 768px) {
+    .contact-methods {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+        align-items: center; /* Center items horizontally */
+        gap: 1rem; /* Adjust gap for smaller screens */     
+      grid-template-rows: 1fr;
+    }
+  }
 
 
 /* Socials Section */
