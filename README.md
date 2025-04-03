@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a personal portfolio website for **Richard Akintunde**, showcasing skills, projects, education, and interests in web development, software testing, and automation. The website is fully responsive, providing an interactive and engaging experience.
+This personal portfolio website for **Richard Akintunde** showcases skills, projects, education, and interests in web development, software testing, and automation. The website is fully responsive, providing an interactive and engaging experience.
 
 ## Technologies Used
 
@@ -78,10 +78,11 @@ portfolio/
 6. **Deployment**:
    - Uploaded the project to GitHub.
    - Set up GitHub Pages for easy access and hosting.
+     **Found IT Here**: [My Portfolio](https://richdigital2021.github.io/portfolio/)
 
 ## Contributing
 
-If you'd like to contribute, feel free to fork the repository and submit a pull request.
+Feel free to fork the repository and submit a pull request if you'd like to contribute.
 
 ## Contact
 
